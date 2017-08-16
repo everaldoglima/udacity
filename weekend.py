@@ -6,8 +6,7 @@ def weekend(day):
         return True
     else:
         return False
-        
-    
+
 print weekend('Monday')
 #>>> False
 
